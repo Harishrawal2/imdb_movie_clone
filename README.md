@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Project Link IMDB_MOVIE_CLONE = https://64bfc0db7668bf63a4b5d2b8--playful-youtiao-c40c08.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
